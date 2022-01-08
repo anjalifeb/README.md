@@ -1,6 +1,6 @@
 ### Hi there, I'm [Anjali](https://github.com/anjalifeb) 👋
 
-<img src="https://komarev.com/ghpvc/?username=umangdubey&color=brightgreen&style=plastic" />
+<img src="https://komarev.com/ghpvc/?username=anjalifeb&color=brightgreen&style=plastic" />
 </p>
 
 ## I'm a Student ,Developer and Machine Learning enthusiast!
